@@ -1,0 +1,6 @@
+{
+  "require": {
+    "twbs/bootstrap": "4.1.0",
+    "ghunti/highcharts-php": "~3.0"
+  }
+}
